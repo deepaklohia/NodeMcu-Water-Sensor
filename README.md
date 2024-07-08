@@ -6,6 +6,7 @@
 
 ### HOW TO USE ###
 STEP-1. Create _Blynk Account_ and Create a Template . Copy your Template ID and Template Name.
+
 STEP-2. Create Virtual Pins on Blynk App using the snapshots .
 
 <!--
@@ -15,6 +16,7 @@ STEP-2. Create Virtual Pins on Blynk App using the snapshots .
 <img src="https://github.com/deepaklohia/Arduino-and-IoT-Projects/assets/57560249/e93f260e-4090-49b9-9e20-952cf29f174b)" width=600 height=300>
 
 (use help section of Blynk for more info)
+
 STEP-3. Upload the code attached in "Edgent_Tubewell" folder after updating your BLYNK_TEMPLATE_ID/BLYNK_TEMPLATE_NAME,  to Node MCU chip and Connect your device to Blynk app using Wizard on Phone. 
 
 ### MORE INFORMATION ###
