@@ -1,5 +1,7 @@
 # Tubewell Water Sensor #
 
+Tubewell Water Sensor is all in one Automation to Detect Running Water and Tank Level as well. It will Ensure that water is coming from tubewell and turn it off in there is no water for 30seconds (can be customised), for the motor safety.
+
 ![Screenshot 2024-07-08 at 9 27 59 PM](https://github.com/deepaklohia/Arduino-and-IoT-Projects/assets/57560249/abae2933-8385-4f38-8d7c-7e4510be5bfc)
 ![Screenshot 2024-07-08 at 9 28 11 PM](https://github.com/deepaklohia/Arduino-and-IoT-Projects/assets/57560249/1e4be284-cae4-4614-bec1-c8a66e2aa7e2)
 
