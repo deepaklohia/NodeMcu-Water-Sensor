@@ -34,6 +34,10 @@ STEP-3. Create Virtual Pins on Blynk App using the snapshots .
 
 STEP-4. Upload the code attached in "Edgent_Tubewell" folder after updating your BLYNK_TEMPLATE_ID/BLYNK_TEMPLATE_NAME,  to Node MCU chip and Connect your device to Blynk app using Wizard on Phone. 
 
+### ORIGINAL AUTOMATION SNAPSHOT ###
+
+![TUBEW](https://github.com/user-attachments/assets/ad601b38-672f-4bce-8742-27acbde5854b)
+
 ### MORE INFORMATION ###
 How Blynk Edgent Works - its part of blynk it allows to remotely upload the code in the chip . thats a cool feature. 
 https://docs.blynk.io/en/blynk.edgent/overview
